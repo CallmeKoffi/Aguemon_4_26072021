@@ -9,11 +9,11 @@
 html {
     font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%
+    -ms-text-size-adjust: 100%;
 }
 
 body {
-    margin: 0
+    margin: 0;
 }
 
 article,
@@ -29,7 +29,7 @@ menu,
 nav,
 section,
 summary {
-    display: block
+    display: block;
 }
 
 audio,
@@ -37,30 +37,30 @@ canvas,
 progress,
 video {
     display: inline-block;
-    vertical-align: baseline
+    vertical-align: baseline;
 }
 
 audio:not([controls]) {
     display: none;
-    height: 0
+    height: 0;
 }
 
 [hidden],
 template {
-    display: none
+    display: none;
 }
 
 a {
-    background-color: transparent
+    background-color: transparent;
 }
 
 a:active,
 a:hover {
-    outline: 0
+    outline: 0;
 }
 
 abbr[title] {
-    border-bottom: 1px dotted
+    border-bottom: 1px dotted;
 }
 
 b,
@@ -69,12 +69,12 @@ strong {
 }
 
 dfn {
-    font-style: italic
+    font-style: italic;
 }
 
 h1 {
     margin: .67em 0;
-    font-size: 2em
+    font-size: 2em;
 }
 
 mark {
@@ -83,7 +83,7 @@ mark {
 }
 
 small {
-    font-size: 80%
+    font-size: 80%;
 }
 
 sub,
@@ -91,7 +91,7 @@ sup {
     position: relative;
     font-size: 75%;
     line-height: 0;
-    vertical-align: baseline
+    vertical-align: baseline;
 }
 
 sup {
@@ -103,7 +103,7 @@ sub {
 }
 
 img {
-    border: 0
+    border: 0;
 }
 
 svg:not(:root) {
